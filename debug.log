@@ -1,0 +1,2134 @@
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Method Not Allowed: /api/v1/
+"GET /api/v1/ HTTP/1.1" 405 40
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Method Not Allowed: /api/v1/
+"GET /api/v1/ HTTP/1.1" 405 40
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Method Not Allowed: /api/v1/
+"GET /api/v1/ HTTP/1.1" 405 40
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Method Not Allowed: /api/v1/
+"GET /api/v1/ HTTP/1.1" 405 40
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PostList.get() takes 0 positional arguments but 2 were given
+"GET /api/v1/ HTTP/1.1" 500 87238
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PostList.get() takes 0 positional arguments but 2 were given
+"GET /api/v1/ HTTP/1.1" 500 87238
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+Not Found: /api/v1/2
+"GET /api/v1/2 HTTP/1.1" 404 2281
+Watching for file changes with StatReloader
+Not Found: /api/v1/2
+"GET /api/v1/2 HTTP/1.1" 404 2281
+C:\Users\conju\blogapi\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Method Not Allowed: /api/v1/2/
+"GET /api/v1/2/ HTTP/1.1" 405 40
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+"GET /api/v1/1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\posts\views.py", line 30, in get
+    post = Post.objects.get(pk=pk)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\db\models\query.py", line 496, in get
+    raise self.model.DoesNotExist(
+posts.models.Post.DoesNotExist: Post matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 32, in get
+    return Response({'Error':'Post not found'}, status=status.HTTP_404_NOT_FOUND)
+                                                       ^^^^^^
+NameError: name 'status' is not defined
+"GET /api/v1/1/ HTTP/1.1" 500 103488
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/1 HTTP/1.1" 301 0
+Not Found: /api/v1/1/
+"GET /api/v1/1/ HTTP/1.1" 404 26
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 33, in get
+    print(myserializer.data)
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 123504
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 29, in get
+    mypost = Post.objects.get.filter(body__startswith="te")
+             ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'filter'
+"GET /api/v1/2/ HTTP/1.1" 500 91262
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 33, in get
+    print(myserializer.data)
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 123504
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 41, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 123463
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 33, in get
+    print(myserializer.data)
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 126923
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 33, in get
+    print(myserializer.data)
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 126923
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 5094
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+"GET /admin/accounts/customuser/ HTTP/1.1" 200 8531
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /admin/posts/post/ HTTP/1.1" 200 6642
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/posts/post/3/change/ HTTP/1.1" 200 7839
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 33, in get
+    print(myserializer.data)
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 123504
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 41, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 123463
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 41, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 123437
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 41, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 123437
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 41, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 124073
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 41, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 124073
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 42, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 124233
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 42, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 127652
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 42, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 124245
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 44, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 124254
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 44, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 124418
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/ HTTP/1.1" 200 185
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 35, in get
+    print(myserializer[0])
+          ~~~~~~~~~~~~^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 541, in __getitem__
+    field = self.fields[key]
+            ~~~~~~~~~~~^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\utils\serializer_helpers.py", line 155, in __getitem__
+    return self.fields[key]
+           ~~~~~~~~~~~^^^^^
+KeyError: 0
+"GET /api/v1/2/ HTTP/1.1" 500 100647
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 35, in get
+    print(myserializer['id'])
+          ~~~~~~~~~~~~^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 542, in __getitem__
+    value = self.data.get(key)
+            ^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 131671
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+"GET /api/v1/2/ HTTP/1.1" 200 90
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 35, in get
+    print(myserializer.data)
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 555, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `author` on serializer `PostSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'author'.
+"GET /api/v1/2/ HTTP/1.1" 500 123641
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/2 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/2/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'django.db.models.query.QuerySet'>`
+"GET /api/v1/2/ HTTP/1.1" 500 79071
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 21, in get
+    print(posts.data)
+          ^^^^^^^^^^
+AttributeError: 'QuerySet' object has no attribute 'data'
+"GET /api/v1/ HTTP/1.1" 500 91581
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 95, in get_attribute
+    instance = instance[attr]
+               ~~~~~~~~^^^^^^
+KeyError: 'author'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 23, in get
+    print(serializer.data)
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 768, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 686, in to_representation
+    return [
+           ^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\relations.py", line 190, in get_attribute
+    return super().get_attribute(instance)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+KeyError: "Got KeyError when attempting to get a value for field `author` on serializer `PostSerializer`.\nThe serializer field might be named incorrectly and not match any attribute or key on the `dict` instance.\nOriginal exception text was: 'author'."
+"GET /api/v1/ HTTP/1.1" 500 139271
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 185
+"GET /admin/posts/post/3/delete/ HTTP/1.1" 200 5254
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"GET /admin/posts/post/3/change/ HTTP/1.1" 200 7839
+"POST /admin/posts/post/3/change/ HTTP/1.1" 302 0
+"GET /admin/posts/post/add/ HTTP/1.1" 200 7819
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/posts/post/add/ HTTP/1.1" 302 0
+"GET /admin/posts/post/ HTTP/1.1" 200 7040
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 326
+"GET /admin/posts/post/add/ HTTP/1.1" 200 7591
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"POST /admin/posts/post/add/ HTTP/1.1" 302 0
+"GET /admin/posts/post/ HTTP/1.1" 200 7243
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/posts/post/4/change/ HTTP/1.1" 200 7865
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 441
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Method Not Allowed: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 405 41
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 109
+"POST /api/v1/ HTTP/1.1" 200 109
+"GET /api/v1/ HTTP/1.1" 200 441
+"POST /api/v1/post?author=1&title=hi&body=Temporary HTTP/1.1" 200 109
+"POST /api/v1/post?author=1&title=hi&body=Temporary HTTP/1.1" 200 109
+"POST /api/v1/post?author=1&title=hi&body=Temporary HTTP/1.1" 200 109
+"GET /api/v1?author=1&title=hi&body=Temporary HTTP/1.1" 301 0
+"GET /api/v1/?author=1&title=hi&body=Temporary HTTP/1.1" 200 441
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post?author=1&title=hi&body=Temporary HTTP/1.1" 200 109
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post?author=1&title=hi&body=Temporary HTTP/1.1" 200 109
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post?author=1&title=hi&body=Temporary HTTP/1.1" 200 109
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post?author=1&title=hi&body=Temporary HTTP/1.1" 200 109
+"POST /api/v1/post?author=1&title=hi&body=Temporary HTTP/1.1" 200 109
+"POST /api/v1/post?author=1&body=Temporary HTTP/1.1" 200 109
+"POST /api/v1/post?author=1&body=%22Temporary%22&title=%22hi%22 HTTP/1.1" 200 109
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post?author=1&body=%22Temporary%22&title=%22hi%22 HTTP/1.1" 200 109
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post?author=1&body=%22Temporary%22&title=%22hi%22 HTTP/1.1" 200 109
+"POST /api/v1/post?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 109
+- Broken pipe from ('127.0.0.1', 56215)
+
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 441
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 109
+"POST /api/v1/post HTTP/1.1" 200 124
+"POST /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 109
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+Watching for file changes with StatReloader
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+Watching for file changes with StatReloader
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1/1?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+Not Found: /api/v1/1/
+"GET /api/v1/1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 404 23
+"GET /api/v1/2?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+"GET /api/v1/2/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 90
+"GET /api/v1?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1?author=1&body='Temporary'&title='hi' HTTP/1.1" 301 0
+"GET /api/v1/?author=1&body='Temporary'&title='hi' HTTP/1.1" 200 566
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 17, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'PostList' should either include a `queryset` attribute, or override the `get_queryset()` method.
+"GET /api/v1/ HTTP/1.1" 500 100116
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'rest_framework.utils.serializer_helpers.ReturnList'>`
+"GET /api/v1/ HTTP/1.1" 500 81212
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\posts\views.py", line 17, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'PostList' should either include a `queryset` attribute, or override the `get_queryset()` method.
+"GET /api/v1/ HTTP/1.1" 500 100116
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"GET /api/v1/ HTTP/1.1" 500 78792
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'PostList' should either include a `queryset` attribute, or override the `get_queryset()` method.
+"GET /api/v1/ HTTP/1.1" 500 99327
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+                                    ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'PostList' should either include a `queryset` attribute, or override the `get_queryset()` method.
+"GET /api/v1/ HTTP/1.1" 500 99327
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 566
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 566
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 201 125
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"GET /api/v1/ HTTP/1.1" 500 78792
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 692
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+"GET /api/v1/ HTTP/1.1" 500 78792
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'type'>`
+"GET /api/v1/ HTTP/1.1" 500 78884
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'type'>`
+"GET /api/v1/ HTTP/1.1" 500 78884
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'type'>`
+"GET /api/v1/ HTTP/1.1" 500 78884
+- Broken pipe from ('127.0.0.1', 55625)
+
+"GET /api/v1 HTTP/1.1" 301 0
+Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\conju\blogapi\.venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'type'>`
+"GET /api/v1/ HTTP/1.1" 500 78884
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1 HTTP/1.1" 301 0
+"GET /api/v1/ HTTP/1.1" 200 692
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
