@@ -2132,3 +2132,66 @@ Watching for file changes with StatReloader
 "GET /api/v1/ HTTP/1.1" 200 692
 C:\Users\conju\blogapi\posts\views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 89
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 88
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 75
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 88
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 88
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 89
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 89
+Bad Request: /api/v1/post
+"POST /api/v1/post HTTP/1.1" 400 89
+"POST /api/v1/post HTTP/1.1" 200 167
+"POST /api/v1/post HTTP/1.1" 200 167
+"POST /api/v1/post HTTP/1.1" 200 169
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 169
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 169
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 169
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 169
+"POST /api/v1/post HTTP/1.1" 200 169
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 169
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 169
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 170
+"POST /api/v1/post HTTP/1.1" 200 104
+"POST /api/v1/post HTTP/1.1" 200 104
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 104
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 105
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /api/v1/post HTTP/1.1" 200 105
+"POST /api/v1/post HTTP/1.1" 200 1177
+C:\Users\conju\blogapi\posts\views.py changed, reloading.
+Watching for file changes with StatReloader

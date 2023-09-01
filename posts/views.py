@@ -4,7 +4,7 @@ from .serializers import PostSerializer
 from .models import Post
 import os
 import logging
-
+import base64
 import sys
 logging.basicConfig()
 log = logging.getLogger("__name__")
@@ -34,10 +34,22 @@ class PostList(APIView):
         return Response(serializer.data)
     
     def post(self, request):
-        print("in the post")
+        print("in the post2")
         print(request.data)
+        print("1")
+        print(request.data['body'])
+        mybody=request.data['body']
+        print("2")
+        print("my encoded value ")
+        print(mybody)
+        print("decoded value")
+        convertbytes = mybody.encode("ascii")
+        convertedbytes = base64.b64decode(convertbytes)
+        decodedsample = convertedbytes.decode("ascii")
+        print(decodedsample)
+        print("-----------------")
         serializer = PostSerializer(data=request.data)
-        print("my serializer")
+        print("my serializer2")
         print(serializer)
         if serializer.is_valid():
             serializer.save()
