@@ -6,12 +6,8 @@ import os
 import logging
 import base64
 import sys
-logging.basicConfig()
-log = logging.getLogger("__name__")
-print("test")
-"""
-Below Function going to display all the tasks store in the data base.
-"""
+
+
 class PostList(APIView):
 
     #@api_view(['GET'])
