@@ -3,7 +3,7 @@ from rest_framework.response import Response
 from .serializers import PostSerializer
 from .models import Post
 import os
-import logging
+
 import base64
 import sys
 
@@ -26,7 +26,7 @@ class PostList(APIView):
         print("/////////////")
         print("hei hi hi hi")
         print(serializer.data)
-        log.info('HELLO HELLO HELLO')
+      
         return Response(serializer.data)
     
     def post(self, request):
