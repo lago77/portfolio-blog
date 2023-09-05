@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     "accounts.apps.AccountsConfig",
     "posts.apps.PostsConfig",
     "rest_framework",
+    "corsheaders",
     
 ]
 
@@ -161,6 +162,15 @@ LOGGING = {
         },
     },
 }
+
+
+CORS_ORIGIN_WHITELIST = (
+"http://localhost:3000",
+"http://localhost:8000",
+)
+
+
+CSRF_TRUSTED_ORIGINS = ["http://localhost:3000"
 
 # LOGGING = {
 #     'version': 1,
